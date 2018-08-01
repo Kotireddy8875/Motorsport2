@@ -1,0 +1,63 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">200dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">0dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="logLeft">15dp</dimen>
+    <dimen name="unameTop">55dp</dimen>
+    <dimen name="edit_unameleft">130dp</dimen>
+    <dimen name="edit_unametop">45dp</dimen>
+    <dimen name="passTop">125dp</dimen>
+    <dimen name="edit_passLeft">130dp</dimen>
+    <dimen name="edit_passTop">115dp</dimen>
+    <dimen name="loginLeft">70dp</dimen>
+    <dimen name="LoginTop">210dp</dimen>
+    <dimen name="reg_uName">50dp</dimen>
+    <dimen name="reg_pass">53dp</dimen>
+    <dimen name="conf_pass">3dp</dimen>
+    <dimen name="register">30dp</dimen>
+    <dimen name="reset">40dp</dimen>
+    <dimen name="imagewidth">200dp</dimen>
+    <dimen name="imageheight">250dp</dimen>
+    <dimen name="onedp">1dp</dimen>
+    <dimen name="sevendp">7dp</dimen>
+    <dimen name="hundred">100dp</dimen>
+    <dimen name="logow">150dp</dimen>
+    <dimen name="fivedp">5dp</dimen>
+    <dimen name="twenty">30dp</dimen>
+    <dimen name="imageht">110dp</dimen>
+    <dimen name="tsfif">15sp</dimen>
+    <dimen name="tstt">22sp</dimen>
+    <dimen name="twelvesp">12sp</dimen>
+    <dimen name="forty">40dp</dimen>
+    <dimen name="seventydp">70dp</dimen>
+    <dimen name="ninety">90dp</dimen>
+    <dimen name="onetwenty">120dp</dimen>
+    <dimen name="twohundred">200dp</dimen>
+    <dimen name="oneeighty">180dp</dimen>
+    <dimen name="twentysp">22sp</dimen>
+    <dimen name="oneseventy">170dp</dimen>
+    <dimen name="ttsp">22sp</dimen>
+    <dimen name="onefifty">150dp</dimen>
+    <dimen name="fifteensp">15sp</dimen>
+    <dimen name="thirtysp">30sp</dimen>
+    <dimen name="sixtenndp">16dp</dimen>
+    <dimen name="thirtydp">30dp</dimen>
+    <dimen name="tendp">10dp</dimen>
+    <dimen name="ninedp">9dp</dimen>
+    <dimen name="twentydip">20dip</dimen>
+    <dimen name="tendip">10dip</dimen>
+    <dimen name="fiftennspppp">15sp</dimen>
+    <dimen name="fourteensp">14sp</dimen>
+    <dimen name="twentyfivesp">25sp</dimen>
+    <dimen name="eightdp">8dp</dimen>
+    <dimen name="threedp">3dp</dimen>
+</resources>

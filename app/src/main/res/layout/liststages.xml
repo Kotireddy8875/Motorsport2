@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <android.support.v7.widget.CardView
+        android:layout_width="@dimen/oneseventy"
+        android:layout_height="@dimen/onetwenty"
+        app:cardBackgroundColor="@color/blue"
+        android:layout_margin="@dimen/fivedp"
+        android:id="@+id/myCardView">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/stagename"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/tendp"
+        android:textSize="@dimen/twentysp"
+        />
+    </android.support.v7.widget.CardView>
+</GridLayout>
